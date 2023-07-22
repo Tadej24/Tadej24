@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Tadej 👋 
+
+## I'm a Junior Embedded Software Engineer 💻 & Signal Processing Engineer 📻
+
+I enjoy the entire process of developing embedded devices
+
+🤝 Connect with me:
+![slika](https://github.com/Tadej24/Tadej24/assets/140241624/2c8eaaab-97cd-48ee-befb-434951c89af2)
+
 
 <!--
 **Tadej24/Tadej24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
